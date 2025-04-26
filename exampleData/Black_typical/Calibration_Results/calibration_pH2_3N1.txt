@@ -1,0 +1,2 @@
+pxPerMM: 9.460737937559129
+Detection Info: {'mode': 'text_mode', 'detection_line_pts': ((469, 244), (1469, 239)), 'bounding_box': {'x1': 469, 'y1': 244, 'x2': 1469, 'y2': 239}}
